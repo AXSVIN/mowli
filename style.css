@@ -1,0 +1,63 @@
+#font-nav,.font-nav
+{
+    font-family: "Audiowide", sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px #8f8787;
+}
+.dark
+{
+    background-color: black;
+}
+
+#center
+  {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .top{
+    margin-top: -40px;
+  }
+
+  .top1
+  {
+    margin-top: -80px;
+  }
+
+  .center-btn {
+    display: flex;
+    justify-content: center;
+  }
+
+  nav{
+    background-color: black;
+  }
+
+  #footer{
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(bgcar.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#align{
+  text-align: center;
+  justify-content: center;
+  background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(carbg.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#redcolor
+{
+  color: rgb(255, 0, 0);
+}
+
+#a
+{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
